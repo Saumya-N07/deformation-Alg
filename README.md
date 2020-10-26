@@ -1,2 +1,2 @@
-# deformation-Alg
-CGSO is a car organization which wants to test car deformations as it his a wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
